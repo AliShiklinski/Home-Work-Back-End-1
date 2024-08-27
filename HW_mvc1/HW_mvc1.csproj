@@ -19,6 +19,7 @@
   <ItemGroup>
     <Folder Include="Areas\ProniaAdminPanel\Data\" />
     <Folder Include="Areas\ProniaAdminPanel\Models\" />
+    <Folder Include="ViewModels\salam\" />
   </ItemGroup>
 
   <ItemGroup>
