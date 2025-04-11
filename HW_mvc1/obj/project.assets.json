@@ -7858,11 +7858,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\saassa\\Home-Work-Back-End-1\\HW_mvc1\\HW_mvc1.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Home-Work-Back-End-1\\HW_mvc1\\HW_mvc1.csproj",
       "projectName": "HW_mvc1",
-      "projectPath": "C:\\Users\\user\\Desktop\\saassa\\Home-Work-Back-End-1\\HW_mvc1\\HW_mvc1.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\Home-Work-Back-End-1\\HW_mvc1\\HW_mvc1.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\saassa\\Home-Work-Back-End-1\\HW_mvc1\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Home-Work-Back-End-1\\HW_mvc1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

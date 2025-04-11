@@ -7,6 +7,21 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Areas\ProniaAdminPanel\Data\**" />
+    <Compile Remove="Areas\ProniaAdminPanel\Models\**" />
+    <Compile Remove="ViewModels\salam\**" />
+    <Content Remove="Areas\ProniaAdminPanel\Data\**" />
+    <Content Remove="Areas\ProniaAdminPanel\Models\**" />
+    <Content Remove="ViewModels\salam\**" />
+    <EmbeddedResource Remove="Areas\ProniaAdminPanel\Data\**" />
+    <EmbeddedResource Remove="Areas\ProniaAdminPanel\Models\**" />
+    <EmbeddedResource Remove="ViewModels\salam\**" />
+    <None Remove="Areas\ProniaAdminPanel\Data\**" />
+    <None Remove="Areas\ProniaAdminPanel\Models\**" />
+    <None Remove="ViewModels\salam\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.8" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.8" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.8">
@@ -14,12 +29,6 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.4" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Areas\ProniaAdminPanel\Data\" />
-    <Folder Include="Areas\ProniaAdminPanel\Models\" />
-    <Folder Include="ViewModels\salam\" />
   </ItemGroup>
 
   <ItemGroup>
